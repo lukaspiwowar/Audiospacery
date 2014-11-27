@@ -972,7 +972,7 @@ div.jp-seeking-bg {
 	background: transparent url(images/player/tracklist-item-bg.png) repeat-x bottom left scroll;
 }
 .ttw-music-player .tracklist .title {
-	width: 330px;
+	width: 430px;
 	display: inline-block;
 	padding: 0 0 0 0px;
 	cursor: pointer;
