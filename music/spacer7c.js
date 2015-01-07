@@ -3,7 +3,7 @@ var myPlaylist = [
 	{
 		mp3:'music/bodzentyn-3.mp3',
 		oga:'music/bodzentyn-3.ogg',
-		title:'Bodzentyn - część 3/5 ',
+		title:'Bodzentyn - Zagroda Czernikiewiczów',
 		artist:'Przewodnik po mieście i gminie Bodzentyn położonej w północnej części województwa świętokrzyskiego i w północno-wschodniej części ziemskiego powiatu kieleckiego. ',
 		rating:5,
 		buy:'download07.php?src=bodzentyn-3.mp3',
@@ -14,7 +14,7 @@ var myPlaylist = [
 	{
 		mp3:'music/bodzentyn-4.mp3',
 		oga:'music/bodzentyn-4.ogg',
-		title:'Bodzentyn - część 4/5 ',
+		title:'Bodzentyn - Kościół pw. Wniebowzięcia NMP i św. Stanisława Biskupa',
 		artist:'Przewodnik po mieście i gminie Bodzentyn położonej w północnej części województwa świętokrzyskiego i w północno-wschodniej części ziemskiego powiatu kieleckiego. ',
 		rating:5,
 		buy:'download07.php?src=bodzentyn-4.mp3',
@@ -25,7 +25,7 @@ var myPlaylist = [
 	{
 		mp3:'music/bodzentyn-5.mp3',
 		oga:'music/bodzentyn-5.ogg',
-		title:'Bodzentyn - część 5/5 ',
+		title:'Bodzentyn - Ruiny Zamku',
 		artist:'Przewodnik po mieście i gminie Bodzentyn położonej w północnej części województwa świętokrzyskiego i w północno-wschodniej części ziemskiego powiatu kieleckiego. ',
 		rating:5,
 		buy:'download07.php?src=bodzentyn-5.mp3',

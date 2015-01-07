@@ -3,7 +3,7 @@ var myPlaylist = [
 	{
 		mp3:'music/wachock-4.mp3',
 		oga:'music/wachock-4.ogg',
-		title:'Wąchock - część 4/4',
+		title:'Wąchock - Dworek Langiewicz',
 		artist:'Przewodnik po Gminie Wąchock położonej w północno - wschodniej części Województwa Świętokrzyskiego w dolinie rzeki Kamiennej.  ',
 		rating:5,
 		buy:'download08.php?src=wachock-4.mp3',

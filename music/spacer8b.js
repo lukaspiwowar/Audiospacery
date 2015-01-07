@@ -3,7 +3,7 @@ var myPlaylist = [
 	{
 		mp3:'music/wachock-2.mp3',
 		oga:'music/wachock-2.ogg',
-		title:'Wąchock - część 2/4',
+		title:'Wąchock - Pomnik Sołtys',
 		artist:'Przewodnik po Gminie Wąchock położonej w północno - wschodniej części Województwa Świętokrzyskiego w dolinie rzeki Kamiennej.  ',
 		rating:5,
 		buy:'download08.php?src=wachock-2.mp3',
@@ -14,7 +14,7 @@ var myPlaylist = [
 	{
 		mp3:'music/wachock-3.mp3',
 		oga:'music/wachock-3.ogg',
-		title:'Wąchock - część 3/4',
+		title:'Wąchock - Rynek',
 		artist:'Przewodnik po Gminie Wąchock położonej w północno - wschodniej części Województwa Świętokrzyskiego w dolinie rzeki Kamiennej.  ',
 		rating:5,
 		buy:'download08.php?src=wachock-3.mp3',
@@ -25,7 +25,7 @@ var myPlaylist = [
 	{
 		mp3:'music/wachock-4.mp3',
 		oga:'music/wachock-4.ogg',
-		title:'Wąchock - część 4/4',
+		title:'Wąchock - Dworek Langiewicz',
 		artist:'Przewodnik po Gminie Wąchock położonej w północno - wschodniej części Województwa Świętokrzyskiego w dolinie rzeki Kamiennej.  ',
 		rating:5,
 		buy:'download08.php?src=wachock-4.mp3',

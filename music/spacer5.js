@@ -3,7 +3,7 @@ var myPlaylist = [
 	{
 		mp3:'music/checiny-1.mp3',
 		oga:'music/checiny-1.ogg',
-		title:'Chęciny - część 1/6',
+		title:'Chęciny - Niemczówka',
 		artist:'Przewodnik po Gminie Chęciny położonej w centralnej części województwa świętokrzyskiego, w odległości kilkunastu kilometrów na południowy - zachód od Kielc.',
 		rating:5,
 		buy:'download05.php?src=checiny-1.mp3',
@@ -14,7 +14,7 @@ var myPlaylist = [
 	{
 		mp3:'music/checiny-2.mp3',
 		oga:'music/checiny-2.ogg',
-		title:'Chęciny - część 2/6',
+		title:'Chęciny - Rynek Górny',
 		artist:'Przewodnik po Gminie Chęciny położonej w centralnej części województwa świętokrzyskiego, w odległości kilkunastu kilometrów na południowy - zachód od Kielc.',
 		rating:5,
 		buy:'download05.php?src=checiny-2.mp3',
@@ -25,7 +25,7 @@ var myPlaylist = [
 	{
 		mp3:'music/checiny-3.mp3',
 		oga:'music/checiny-3.ogg',
-		title:'Chęciny - część 3/6',
+		title:'Chęciny - Kościół Parafialny pw. św. Bartłomieja',
 		artist:'Przewodnik po Gminie Chęciny położonej w centralnej części województwa świętokrzyskiego, w odległości kilkunastu kilometrów na południowy - zachód od Kielc.',
 		rating:5,
 		buy:'download05.php?src=checiny-3.mp3',
@@ -36,7 +36,7 @@ var myPlaylist = [
 	{
 		mp3:'music/checiny-4.mp3',
 		oga:'music/checiny-4.ogg',
-		title:'Chęciny - część 4/6',
+		title:'Chęciny - Synagoga',
 		artist:'Przewodnik po Gminie Chęciny położonej w centralnej części województwa świętokrzyskiego, w odległości kilkunastu kilometrów na południowy - zachód od Kielc.',
 		rating:5,
 		buy:'download05.php?src=checiny-4.mp3',
@@ -47,7 +47,7 @@ var myPlaylist = [
 	{
 		mp3:'music/checiny-5.mp3',
 		oga:'music/checiny-5.ogg',
-		title:'Chęciny - część 5/6',
+		title:'Chęciny - Rynek Dolny',
 		artist:'Przewodnik po Gminie Chęciny położonej w centralnej części województwa świętokrzyskiego, w odległości kilkunastu kilometrów na południowy - zachód od Kielc.',
 		rating:5,
 		buy:'download05.php?src=checiny-5.mp3',
@@ -58,7 +58,7 @@ var myPlaylist = [
 	{
 		mp3:'music/checiny-6.mp3',
 		oga:'music/checiny-6.ogg',
-		title:'Chęciny - część 6/6',
+		title:'Chęciny - Klasztor Franciszkanów',
 		artist:'Przewodnik po Gminie Chęciny położonej w centralnej części województwa świętokrzyskiego, w odległości kilkunastu kilometrów na południowy - zachód od Kielc.',
 		rating:5,
 		buy:'download05.php?src=checiny-6.mp3',

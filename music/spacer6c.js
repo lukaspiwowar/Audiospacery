@@ -2,7 +2,7 @@
 	{
 		mp3:'music/zagnansk-3.mp3',
 		oga:'music/zagnansk-3.ogg',
-		title:'Zagnańsk - część 3/4',
+		title:'Zagnańsk - Dąb Bartek',
 		artist:'Przewodnik po Gminie Zagnańsk położonej w północnej części Województwa Świętokrzyskiego na terenie Powiatu Kieleckiego.  ',
 		rating:5,
 		buy:'download06.php?src=zagnansk-3.mp3',
@@ -13,7 +13,7 @@
 	{
 		mp3:'music/zagnansk-4.mp3',
 		oga:'music/zagnansk-4.ogg',
-		title:'Zagnańsk - część 4/4',
+		title:'Zagnańsk - Ruiny huty „Józef',
 		artist:'Przewodnik po Gminie Zagnańsk położonej w północnej części Województwa Świętokrzyskiego na terenie Powiatu Kieleckiego.  ',
 		rating:5,
 		buy:'download06.php?src=zagnansk-4.mp3',

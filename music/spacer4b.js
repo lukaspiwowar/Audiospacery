@@ -1,5 +1,3 @@
-
-
 var myPlaylist = [
 	{
 		mp3:'music/spacer04/kielecka-aleja-slaw-1.mp3',

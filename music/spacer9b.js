@@ -3,7 +3,7 @@ var myPlaylist = [
 	{
 		mp3:'music/chmielnik-2.mp3',
 		oga:'music/chmielnik-2.ogg',
-		title:'Chmielnik - część 2/5',
+		title:'Chmielnik - Kościół pw. Świętej Trójcy',
 		artist:'Przewodnik po Gminie Chmielnik położonej w południowo-wschodniej części województwa świętokrzyskiego, w centrum Niecki Nidziańskiej, na skraju Pogórza Szydłowskiego i Niecki Połanieckiej.',
 		rating:5,
 		buy:'download09.php?src=chmielnik-2.mp3',
@@ -14,7 +14,7 @@ var myPlaylist = [
 	{
 		mp3:'music/chmielnik-3.mp3',
 		oga:'music/chmielnik-3.ogg',
-		title:'Chmielnik - część 3/5',
+		title:'Chmielnik - Rynek',
 		artist:'Przewodnik po Gminie Chmielnik położonej w południowo-wschodniej części województwa świętokrzyskiego, w centrum Niecki Nidziańskiej, na skraju Pogórza Szydłowskiego i Niecki Połanieckiej.  ',
 		rating:5,
 		buy:'download09.php?src=chmielnik-3.mp3',
@@ -25,7 +25,7 @@ var myPlaylist = [
 	{
 		mp3:'music/chmielnik-4.mp3',
 		oga:'music/chmielnik-4.ogg',
-		title:'Chmielnik - część 4/5',
+		title:'Chmielnik - Kościół pw. Niepokalanego Poczęcia NMP',
 		artist:'Przewodnik po Gminie Chmielnik położonej w południowo-wschodniej części województwa świętokrzyskiego, w centrum Niecki Nidziańskiej, na skraju Pogórza Szydłowskiego i Niecki Połanieckiej.  ',
 		rating:5,
 		buy:'download09.php?src=chmielnik-4.mp3',
@@ -36,7 +36,7 @@ var myPlaylist = [
 	{
 		mp3:'music/chmielnik-5.mp3',
 		oga:'music/chmielnik-5.ogg',
-		title:'Chmielnik - część 5/5',
+		title:'Chmielnik - Synagoga',
 		artist:'Przewodnik po Gminie Chmielnik położonej w południowo-wschodniej części województwa świętokrzyskiego, w centrum Niecki Nidziańskiej, na skraju Pogórza Szydłowskiego i Niecki Połanieckiej.  ',
 		rating:5,
 		buy:'download09.php?src=chmielnik-5.mp3',

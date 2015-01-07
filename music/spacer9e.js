@@ -3,7 +3,7 @@ var myPlaylist = [
 	{
 		mp3:'music/chmielnik-5.mp3',
 		oga:'music/chmielnik-5.ogg',
-		title:'Chmielnik - część 5/5',
+		title:'Chmielnik - Synagoga',
 		artist:'Przewodnik po Gminie Chmielnik położonej w południowo-wschodniej części województwa świętokrzyskiego, w centrum Niecki Nidziańskiej, na skraju Pogórza Szydłowskiego i Niecki Połanieckiej.  ',
 		rating:5,
 		buy:'download09.php?src=chmielnik-5.mp3',
